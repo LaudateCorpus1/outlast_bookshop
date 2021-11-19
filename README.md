@@ -1,16 +1,15 @@
 ## Setup application
+
 To get started, simply clone this repository and using `npm` install all the project dependencies. You may need to go over some basic configuration steps.
 
 ```
-git clone https://github.com/mohsintek/CodingChallenge.git
-cd CodingChallenge
+git clone https://github.com/Hamid-Akhtar/outlast_bookshop.git
+cd outlast_bookshop
 npm install
 npm start
 
 # SETUP FRONTEND
-cd CodingChallenge/client
+cd outlast_bookshop/client
 npm install
 npm start
 ```
-
-## This project is also deployed on heroku you can access it at the given link https://ventera.herokuapp.com/
